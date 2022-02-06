@@ -1,0 +1,9 @@
+Shapiro, A.H., Sudhof, M. and Wilson, D.J., 2020. Measuring news sentiment. Journal of Econometrics.
+
+Loughran, T. and McDonald, B., 2011. When is a liability not a liability? Textual analysis, dictionaries, and 10‐Ks. The Journal of finance, 66(1), pp.35-65.
+
+Hu, M., and B. Liu (2004): “Mining and summarizing customer reviews,” in SIGKDDKDM-04.
+
+Malo, P., Sinha, A., Takala, P., Korhonen, P. and Wallenius, J. (2013): “Good debt or bad debt: Detecting semantic orientations in economic texts.” Journal of the American Society for Information Science and Technology. (in Press)
+
+Sousa, M.G., Sakiyama, K., de Souza Rodrigues, L., Moraes, P.H., Fernandes, E.R. and Matsubara, E.T., 2019, November. BERT for stock market sentiment analysis. In 2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI) (pp. 1597-1601). IEEE.

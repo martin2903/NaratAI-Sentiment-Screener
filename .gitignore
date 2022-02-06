@@ -1,0 +1,6 @@
+utilities/BertModel
+venv
+*.idea
+*__pycache__
+*_checkpoints
+*.DS_Store
