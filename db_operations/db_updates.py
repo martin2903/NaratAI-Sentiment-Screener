@@ -23,11 +23,11 @@ def connect_to_db():
        """
 
     # Parameters needed to establish the connection
-    USER = 'martin2903'
-    PASSWORD = 'rocesM12?!'
-    HOST = 'naratai.ccfiils8uwgj.eu-west-2.rds.amazonaws.com'
-    PORT = '5432'
-    DATABASE = 'postgres'
+    USER = ''
+    PASSWORD = ''
+    HOST = ''
+    PORT = ''
+    DATABASE = ''
     try:
         connection=psycopg2.connect(user=USER,password=PASSWORD,
                                       host=HOST,port=PORT,
