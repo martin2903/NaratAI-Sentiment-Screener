@@ -1,6 +1,6 @@
-#NaratAI Sentiment Screener
+# NaratAI Sentiment Screener
 
-##Project Goal
+## Project Goal
 
 NaratAI was inspired by Robert Schiller’s ‘Narrative Economics’ (Schiller , 2019). The name hints at what the application seeks to do – communicate the prevailing narrative for any given asset investors might be interested in.
 The application was developed to address the problem of access to condensed, high- quality information on news sentiment and the driving factors behind it, both being one of the most imperative factors when considering a given investment. The software enables users to not only get a rapid understanding about the spectrum of negativity or positivity expressed for an asset of their choice but also explore the context of what is driving that polarity. The intended target audience consists of retail investors of which there has been a large recent influx. That group rarely has access to sophisticated data analytics like institutional investors do and is also characterized by mainly using online media outlets as a guide for investment decisions. The application addresses the group’s needs by providing high-quality dense information using the same technologies that market actors with significantly more dedicated resources also use. Additionally, considering the fact that a constraining resource for many retail investors is time, the software serves the purpose of saving users the need to collect and analyse that information themselves from the extremely large pool of sources available.
